@@ -1,12 +1,12 @@
 ##Smoke Trees Assignment
 ##Nxtwave
 **Technologies used
--React vite@latest
--tailwind css
--sqlite
--Node js
--Express
--postman to test API's
+--React vite@latest
+--tailwind css
+--sqlite
+--Node js
+--Express
+--postman to test API's
 
 ** Deployment ***
 ** Frontend -- ## vercel
